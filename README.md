@@ -22,7 +22,7 @@ Nexuses contribute to the decoding process.
 
 ### Requirements
 
-Please refer to [requirements.txt](./req.txt)
+Please refer to [requirements.txt](./requirement.txt)
 
 ### Model Zoos
 
