@@ -1,8 +1,8 @@
 # NexusNet: Leveraging Nexuses in Graph Neural Network for Enhanced Motor Imagery Decoding
 
-*Core code will be made available upon acceptance.*
-
 This is a PyTorch implementation of NexusNet for MI decoding.
+
+**All code for our NexusNet has been released. If you are interested in our work, please consider citing it.**
 
 ### Abstract
 - We propose a lightweight GNN, NexusNet, designed to
@@ -33,3 +33,13 @@ Pretrained checkpoints are available in
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+### Citation
+
+@article{wang2025nexusnet,
+  title={NexusNet: Lightweight Graph Modeling for Motor Imagery-Based Brain-Computer Interfaces},
+  author={Wang, Zikai and Si, Yuan and Wang, Zhenyu and Zhou, Ting and Xu, Tianheng and Hu, Honglin},
+  journal={IEEE Internet of Things Journal},
+  year={2025},
+  publisher={IEEE}
+}
