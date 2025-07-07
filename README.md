@@ -36,6 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ### Citation
 
+```
 @article{wang2025nexusnet,
   title={NexusNet: Lightweight Graph Modeling for Motor Imagery-Based Brain-Computer Interfaces},
   author={Wang, Zikai and Si, Yuan and Wang, Zhenyu and Zhou, Ting and Xu, Tianheng and Hu, Honglin},
@@ -43,3 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
   year={2025},
   publisher={IEEE}
 }
+```
