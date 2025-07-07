@@ -1,4 +1,4 @@
-# NexusNet: Leveraging Nexuses in Graph Neural Network for Enhanced Motor Imagery Decoding
+# NexusNet: Lightweight Graph Modeling for Motor Imagery-based Brain-computer Interfaces
 
 This is a PyTorch implementation of NexusNet for MI decoding.
 
