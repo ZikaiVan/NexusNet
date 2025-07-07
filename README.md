@@ -10,7 +10,7 @@ capture complex relationships beyond pairwise connections.
 
 - We conduct thorough experiments on two public datasets
 to validate NexusNet. Specifically, it achieves an average
-accuracy of 79.31% (hold-out) on the BCIC-IV-2a dataset and 87.70% (hold-out)
+accuracy of 78.78% (hold-out) on the BCIC-IV-2a dataset and 87.21% (hold-out)
 on the BCIC-IV-2b dataset.
 
 - We visualize the primary Nexuses to quantitatively analyze
